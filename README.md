@@ -1,6 +1,6 @@
 # 2-factorauth-with-forgottenpassword
 
-## Thsi project was built for template purpose.
+## This project was built for template purpose.
 
 The two factor authentication where by a user first register to the app and a link get 
 sent to hsi gmail account for verfication once a user has been verifed once he get to login. 
